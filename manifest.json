@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-essay-ink",
+  "name": "Essay.ink Publisher",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Publish notes to essay.ink as waves (淡浂),
+  "author": "JIANG",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
